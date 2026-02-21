@@ -1,5 +1,3 @@
-# Gotham Swords: Bauernwehr
-
 ## About
 Our Fechtverein (Fencing Association) focuses on two distinctive, although greatly analogous, lineages: BAUERNWEHR, [bow•en ver], "Peasant's Defense", a style of martial arts originating from the German-speaking farming population of medieval Europe and the Avril Family Method of Tiré Machét, a living tradition of Haitian martial arts which serves as the heart of our practice.
 
