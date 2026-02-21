@@ -5,3 +5,12 @@ This program invites students to experience a unique historical fencing system o
 
 Bauernwehr classes take a holistic approach to the physical, mental, and emotional disciplines of a centuries old art form!
 
+## Classes
+
+### Getting Started
+
+### Contact
+
+## Members
+
+## Friends & Collaborators
